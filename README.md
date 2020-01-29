@@ -19,3 +19,9 @@ openssl req -new -x509 -keyout server.pem -out server.pem -days 365 -nodes
 In script 3. at line 110 and 111 you can find the password and username used for login.
 
 Credits to [simple-https-server](https://gist.github.com/dergachev/7028596).
+
+## Android app for client side
+
+As part of this little project I also created a [simple android](https://github.com/Madave94/project-pondcontrol) app to get the stream.
+
+Feel free to reuse everything you find here.
